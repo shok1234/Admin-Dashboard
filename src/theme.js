@@ -1,6 +1,6 @@
 import { createContext,useState,useMemo } from "react";
 import {createTheme} from "@mui/material/styles";
-import Typography from "@mui/material/Typography";
+//import Typography from "@mui/material/Typography";
 
 //color design tokens
 export const tokens =(mode)=>({
@@ -20,7 +20,7 @@ primary: {
     100: "#d0d1d5",
     200: "#a1a4ab",
     300: "#727681",
-    400: "#434957",
+    400: "#1F2A40",
     500: "#141b2d",
     600: "#101624",
     700: "#0c101b",
